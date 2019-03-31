@@ -1,2 +1,0 @@
-# hajimestore
-Online shopping store
